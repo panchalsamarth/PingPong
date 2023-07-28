@@ -1,0 +1,37 @@
+.heading
+{
+    width: 100%;
+    font-size: 30px;
+    margin: 0;
+    box-shadow: 5px 5px 5px gray;
+}
+
+#Instructions
+{
+    float: right;
+    font-size: 15px;
+    background-color: transparent;
+    border: 1px solid white;
+    box-shadow: 2px 2px 2px gray;
+}
+
+#Game_Start
+{
+    margin-left: 45%;
+    box-shadow: 3px 3px 3px gray;
+}
+
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    border: 3px solid white;
+}
+
+.status
+{
+    padding-left: 50%;
+}
